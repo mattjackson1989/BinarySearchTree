@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1477014965 source:c:\users\matt\documents\computer science\datastructures\bst\main.cpp
+	<iostream>
+	"bstClass.h"
+	"generalFunctions.h"
+
+1477015013 c:\users\matt\documents\computer science\datastructures\bst\bstclass.h
+	<stdlib.h>
+
+1477014833 c:\users\matt\documents\computer science\datastructures\bst\generalfunctions.h
+	<iostream>
+
